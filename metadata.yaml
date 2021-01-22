@@ -1,0 +1,25 @@
+_repo: Kuka-nyt-vavyksi-Kaksinaytoksinen-ilveily_64256
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Korhonen, Aukusti Edvard
+    gutenberg_agent_id: '52820'
+    url: http://www.gutenberg.org/2009/agents/52820
+  - agent_name: Ruotsalo, Sakari
+    gutenberg_agent_id: '52819'
+    url: http://www.gutenberg.org/2009/agents/52819
+description: ''
+gutenberg_issued: '2021-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64256'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Kuka nyt vävyksi?
+
+  Kaksinäytöksinen ilveily'
+url: http://www.gutenberg.org/ebooks/64256
