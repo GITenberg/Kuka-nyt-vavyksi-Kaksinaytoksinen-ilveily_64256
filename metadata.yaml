@@ -1,5 +1,8 @@
 _repo: Kuka-nyt-vavyksi-Kaksinaytoksinen-ilveily_64256
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Korhonen, Aukusti Edvard
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52819'
     url: http://www.gutenberg.org/2009/agents/52819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64256#Kuka-nyt-vavyksi-Kaksinaytoksinen-ilveily
 gutenberg_issued: '2021-01-11'
 gutenberg_type: Text
 identifiers:
